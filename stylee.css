@@ -1,0 +1,19 @@
+.navBar{
+    height: 50px;
+    width: 900px;
+    border: 2px solid rgba(29, 215, 29, 0.781);
+    border-radius: 10px;
+    background-color: pink;
+    display: flex;
+    
+    justify-content: flex-start;
+    
+    
+}
+
+.navBar div{
+    height: 50px;
+    width: 80px;
+    align-content: center;
+    font-size: 24px;
+}
